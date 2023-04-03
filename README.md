@@ -23,7 +23,6 @@ Welcome to the Go-Learning-Path !
 >   * [Code-Review](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
 >   * [Project-Layout](https://github.com/golang-standards/project-layout)
 >   * [Fundamental](https://go.dev/talks/2012/splash.article)
-
 > * **Go-Article**
 >   * [Go-Presentation](https://go.dev/talks/)
 >   * [Go-Mistake](https://acethecloud.com/blog/10-mistakes-those-should-be-avoided-in-golang/)
