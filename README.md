@@ -16,13 +16,14 @@ Welcome to the Go-Learning-Path !
 > 2. [Farsi-Book](https://book.gofarsi.ir/preface/)
 > 3. [Intro-Programming-Book](https://www.golang-book.com/books/intro)
 > 4. [Handbook-Beginner](https://www.freecodecamp.org/news/go-beginners-handbook/amp/)
-> 5. [Fundamental](https://go.dev/talks/2012/splash.article)
 
 ## Go-Learning
 > * **Go-Concept**
 >   * [Proverbs](https://go-proverbs.github.io/)
 >   * [Code-Review](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)
 >   * [Project-Layout](https://github.com/golang-standards/project-layout)
+>   * [Fundamental](https://go.dev/talks/2012/splash.article)
+
 > * **Go-Article**
 >   * [Go-Presentation](https://go.dev/talks/)
 >   * [Go-Mistake](https://acethecloud.com/blog/10-mistakes-those-should-be-avoided-in-golang/)
