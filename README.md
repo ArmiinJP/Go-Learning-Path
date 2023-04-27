@@ -13,10 +13,11 @@ Welcome to the Go-Learning-Path !
 > 9. [Online-Course-Github](https://github.com/ardanlabs/gotraining)
 
 ## Go-Source
-> 1. [CheatSheet](https://quickref.me/go)
-> 2. [Farsi-Book](https://book.gofarsi.ir/preface/)
-> 3. [Intro-Programming-Book](https://www.golang-book.com/books/intro)
-> 4. [Handbook-Beginner](https://www.freecodecamp.org/news/go-beginners-handbook/amp/)
+> 1. [CheatSheet 1](https://quickref.me/go)
+> 1. [CheatSheet 2](https://devhints.io/go)
+> 1. [Farsi-Book](https://book.gofarsi.ir/preface/)
+> 1. [Intro-Programming-Book](https://www.golang-book.com/books/intro)
+> 1. [Handbook-Beginner](https://www.freecodecamp.org/news/go-beginners-handbook/amp/)
 
 ## Go-Learning
 > * **Go-Concept**
