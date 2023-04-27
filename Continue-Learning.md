@@ -18,3 +18,4 @@
   - [Ardanlabs](https://github.com/ardanlabs/gotraining/tree/fc453becbbf0ef6ff8c658667dd09e5faf9d818f/topics/go)
   - [Alishah](https://github.com/mrAlishah/golangTraining)
 - [ ] [Package](https://talk.gocasts.ir/t/topic/241?u=hasan)
+- [ ] [Data-Type](https://thenewstack.io/understanding-golang-type-system/)
