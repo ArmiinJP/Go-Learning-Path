@@ -18,6 +18,7 @@ Welcome to the Go-Learning-Path !
 > 1. [Farsi-Book](https://book.gofarsi.ir/preface/)
 > 1. [Intro-Programming-Book](https://www.golang-book.com/books/intro)
 > 1. [Handbook-Beginner](https://www.freecodecamp.org/news/go-beginners-handbook/amp/)
+> 1. [Go-For-Devops](https://packops.ir/wp-content/uploads/2023/04/Go-for-DevOps_Packops.ir-2022.pdf)
 
 ## Go-Learning
 > * **Go-Concept**
